@@ -1,7 +1,4 @@
 # Homework-repo
 
-
 Hello
-
-
 
