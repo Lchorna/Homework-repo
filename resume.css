@@ -1,0 +1,31 @@
+.styled-table{
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    }
+
+.contact{
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.left{
+    position: initial;
+    background-color: whitesmoke;
+    padding: 5px;
+}
+
+.right{
+    position: initial;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.education {
+    width: 90%;
+    appearance: inherit;
+    border-collapse: collapse;
+            }
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
