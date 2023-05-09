@@ -1,5 +1,5 @@
-const a = prompt("Please enter value for a:");
-const b = prompt("Please enter value for b:");
+const a = prompt("Please enter number value for a:");
+const b = prompt("Please enter number value for b:");
 const result = a%b;
 if (result === 0){
     console.log ("Ділиться");

@@ -1,5 +1,5 @@
 const currentSalary = prompt("Please enter your current salary:");
-const yearsOfWork = prompt("Please enter how namy years do you work for the Company:");
+const yearsOfWork = prompt("Please enter how many years do you work for the Company:");
 
 let newSalary, increase, bonus;
 
